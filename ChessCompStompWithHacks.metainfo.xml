@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2023 dtsudo -->
+<component type="desktop-application">
+	<id>io.github.dtsudo.ChessCompStompWithHacks</id>
+	<metadata_license>CC0-1.0</metadata_license>
+	<project_license>MIT</project_license>
+	<content_rating type="oars-1.1" />
+	<name>Chess Comp Stomp with Hacks</name>
+	<summary>Defeat the chess AI using hacks!</summary>
+	<description>
+		<p>
+			You're playing against the AI in a chess match. 
+			The AI has vast computational resources, but you have hacks. 
+			Use your hacks to win!
+		</p>
+	</description>
+	<developer_name>dtsudo</developer_name>
+	<url type="homepage">https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Electron-Version</url>
+	<url type="bugtracker">https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Electron-Version/issues</url>
+	<categories>
+		<category>Game</category>
+		<category>StrategyGame</category>
+	</categories>
+	<screenshots>
+		<screenshot type="default">https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot1.png</screenshot>
+		<screenshot>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot2.png</screenshot>
+		<screenshot>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot3.png</screenshot>
+	</screenshots>
+	<releases>
+		<release version="1.01" date="2022-02-16" />
+	</releases>
+</component>
