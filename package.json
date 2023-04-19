@@ -1,0 +1,16 @@
+{
+	"name": "chess-comp-stomp-with-hacks",
+	"version": "1.0.0",
+	"description": "Use hacks to defeat the AI in chess!",
+	"main": "main.js",
+	"scripts": {
+		"dist": "electron-builder",
+		"start": "electron ."
+	},
+	"author": "dtsudo",
+	"license": "MIT",
+	"devDependencies": {
+		"electron": "^24.1.2",
+		"electron-builder": "^23.6.0"
+	}
+}
