@@ -27,6 +27,15 @@
 		<screenshot>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot3.png</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.02" date="2023-05-23">
+			<description>
+				<p>The opponent's pawns can now be captured en passant even if the pawns didn't start on the second rank.</p>
+				<p>After completing the game, the AI's starting piece configuration can now be selected.</p>
+				<p>The music no longer briefly plays when launching the game, if the music volume had previously been muted.</p>
+				<p>Audio files now use ogg format (instead of wav) to reduce file sizes.</p>
+				<p>Other minor changes.</p>
+			</description>
+		</release>
 		<release version="1.01" date="2022-02-16" />
 	</releases>
 </component>
