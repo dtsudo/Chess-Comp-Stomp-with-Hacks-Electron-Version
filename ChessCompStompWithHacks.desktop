@@ -4,3 +4,4 @@ Exec=
 Type=Application
 Icon=io.github.dtsudo.ChessCompStompWithHacks
 Categories=Game;StrategyGame;
+X-KDE-FormFactor=desktop;handset;

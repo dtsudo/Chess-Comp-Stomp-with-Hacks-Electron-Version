@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2023 dtsudo -->
+<!-- Copyright 2024 dtsudo -->
 <component type="desktop-application">
 	<id>io.github.dtsudo.ChessCompStompWithHacks</id>
 	<metadata_license>CC0-1.0</metadata_license>
@@ -7,13 +7,16 @@
 	<content_rating type="oars-1.1" />
 	<name>Chess Comp Stomp with Hacks</name>
 	<summary>Defeat the chess AI using hacks!</summary>
+	<launchable type="desktop-id">io.github.dtsudo.ChessCompStompWithHacks.desktop</launchable>
 	<description>
-		<p>
-			You're playing against the AI in a chess match. 
-			The AI has vast computational resources, but you have hacks. 
-			Use your hacks to win!
-		</p>
+		<p>You're playing against the AI in a chess match. 
+The AI has vast computational resources, but you have hacks. 
+Use your hacks to win!</p>
 	</description>
+	<branding>
+		<color type="primary" scheme_preference="light">#fabc5f</color>
+		<color type="primary" scheme_preference="dark">#593807</color>
+	</branding>
 	<developer_name>dtsudo</developer_name>
 	<url type="homepage">https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Electron-Version</url>
 	<url type="bugtracker">https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Electron-Version/issues</url>
@@ -21,10 +24,16 @@
 		<category>Game</category>
 		<category>StrategyGame</category>
 	</categories>
+	<recommends>
+		<display_length compare="ge">360</display_length>
+		<control>pointing</control>
+		<control>keyboard</control>
+		<control>touch</control>
+	</recommends>
 	<screenshots>
-		<screenshot type="default">https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot1.png</screenshot>
-		<screenshot>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot2.png</screenshot>
-		<screenshot>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot3.png</screenshot>
+		<screenshot type="default"><image>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot1.png</image></screenshot>
+		<screenshot><image>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot2.png</image></screenshot>
+		<screenshot><image>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot3.png</image></screenshot>
 	</screenshots>
 	<releases>
 		<release version="1.02" date="2023-05-23">
