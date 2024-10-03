@@ -36,6 +36,13 @@ Use your hacks to win!</p>
 		<screenshot><image>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot3.png</image></screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.03" date="2024-10-03">
+			<description>
+				<p>Added experimental support for mobile devices.</p>
+				<p>Updated the application icon.</p>
+				<p>Other minor changes.</p>
+			</description>
+		</release>
 		<release version="1.02" date="2023-05-23">
 			<description>
 				<p>The opponent's pawns can now be captured en passant even if the pawns didn't start on the second rank.</p>
