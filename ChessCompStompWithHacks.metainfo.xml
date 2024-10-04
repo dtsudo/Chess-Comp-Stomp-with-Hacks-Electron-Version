@@ -25,7 +25,7 @@ Use your hacks to win!</p>
 		<category>StrategyGame</category>
 	</categories>
 	<recommends>
-		<display_length compare="ge">360</display_length>
+		<display_length compare="ge" side="shortest">360</display_length>
 		<control>pointing</control>
 		<control>keyboard</control>
 		<control>touch</control>
