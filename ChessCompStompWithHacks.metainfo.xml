@@ -30,6 +30,10 @@ Use your hacks to win!</p>
 		<control>keyboard</control>
 		<control>touch</control>
 	</recommends>
+	<custom>
+		<value key="Purism::form_factor">workstation</value>
+		<value key="Purism::form_factor">mobile</value>
+	</custom>
 	<screenshots>
 		<screenshot type="default"><image>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot1.png</image></screenshot>
 		<screenshot><image>https://dtsudo.github.io/Chess-Comp-Stomp-with-Hacks-Electron-Version/screenshot2.png</image></screenshot>
